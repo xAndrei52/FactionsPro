@@ -1,7 +1,7 @@
 ---
 branches: master
 projects:
-  FactionsPro:
+  FactionsEdited:
     path: ""
     model: default
     icon: factionspro.png
